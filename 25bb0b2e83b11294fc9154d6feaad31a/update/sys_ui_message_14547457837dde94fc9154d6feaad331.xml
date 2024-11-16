@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Virtual Agent</application>
+        <code/>
+        <commented_message/>
+        <key>what do you need to the short description of needit completed? dear user.</key>
+        <language>en</language>
+        <message>What do you need to the Short Description of NeedIt completed? Dear user.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-16 06:37:33</sys_created_on>
+        <sys_id>14547457837dde94fc9154d6feaad331</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>what do you need to the short description of needit completed? dear user.</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_1461179_needit_v">25bb0b2e83b11294fc9154d6feaad31a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">25bb0b2e83b11294fc9154d6feaad31a</sys_scope>
+        <sys_update_name>sys_ui_message_14547457837dde94fc9154d6feaad331</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-16 06:37:33</sys_updated_on>
+    </sys_ui_message>
+</record_update>
